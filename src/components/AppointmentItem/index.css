@@ -1,0 +1,8 @@
+.list-items {
+  border-radius: 5px;
+  border-width: 2px;
+  border-color: black;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+}

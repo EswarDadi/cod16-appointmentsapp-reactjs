@@ -1,0 +1,48 @@
+.bg-container {
+  background-image: linear-gradient(to bottom, #fbc7d4, #9796f0);
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-size: cover;
+  justify-content: center;
+  height: 100vh;
+}
+.card-container {
+  background-color: white;
+  padding: 15px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+}
+.card-items-container {
+  display: flex;
+}
+.image {
+  height: 180px;
+}
+.label-description {
+  color: #b5b7c4;
+  font-weight: bold;
+  font-family: roboto;
+  font-size: 14px;
+}
+
+.button {
+  color: white;
+  background-color: #8b5cf6;
+  border-width: 0px;
+  border-radius: 5px;
+}
+.hr {
+  color: #b5b7c4;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+}
+.appointments-contianer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
